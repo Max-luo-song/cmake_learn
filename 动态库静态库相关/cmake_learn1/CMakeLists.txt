@@ -1,0 +1,3 @@
+PROJECT(hello)
+
+ADD_SUBDIRECTORY(lib bin)

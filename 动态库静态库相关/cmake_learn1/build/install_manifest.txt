@@ -1,0 +1,3 @@
+/usr/include/hello/hello.h
+/usr/lib/libhello.so
+/usr/lib/libhello_static.a
