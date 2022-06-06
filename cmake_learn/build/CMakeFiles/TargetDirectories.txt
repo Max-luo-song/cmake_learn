@@ -1,0 +1,13 @@
+/home/max/cmake_learn/build/CMakeFiles/install/strip.dir
+/home/max/cmake_learn/build/CMakeFiles/install.dir
+/home/max/cmake_learn/build/CMakeFiles/install/local.dir
+/home/max/cmake_learn/build/CMakeFiles/list_install_components.dir
+/home/max/cmake_learn/build/CMakeFiles/edit_cache.dir
+/home/max/cmake_learn/build/CMakeFiles/rebuild_cache.dir
+/home/max/cmake_learn/build/bin/CMakeFiles/install/strip.dir
+/home/max/cmake_learn/build/bin/CMakeFiles/edit_cache.dir
+/home/max/cmake_learn/build/bin/CMakeFiles/hello.dir
+/home/max/cmake_learn/build/bin/CMakeFiles/rebuild_cache.dir
+/home/max/cmake_learn/build/bin/CMakeFiles/list_install_components.dir
+/home/max/cmake_learn/build/bin/CMakeFiles/install/local.dir
+/home/max/cmake_learn/build/bin/CMakeFiles/install.dir
