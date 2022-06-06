@@ -1,0 +1,5 @@
+/home/max/cmake_learn2/build/CMakeFiles/rebuild_cache.dir
+/home/max/cmake_learn2/build/CMakeFiles/edit_cache.dir
+/home/max/cmake_learn2/build/bin/CMakeFiles/rebuild_cache.dir
+/home/max/cmake_learn2/build/bin/CMakeFiles/hello.dir
+/home/max/cmake_learn2/build/bin/CMakeFiles/edit_cache.dir
