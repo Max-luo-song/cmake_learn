@@ -4,9 +4,9 @@ This repository is for myself to learn the cmake, which is a good tool to develo
 ## Dir1:cmake_learn
 /cmake_learn is a basic usage of cmake, I only have one file(main.cpp) , the funciton of the file is to print "Hello world".
 the step shows as follow:
-'''
+```
 cd build && cmake .. && make && cd bin && ./hello
-'''
+```
 
 ## Dir2:动态库静态库相关
 /动态库静态库相关  is about how to add Static and dynamic libraries when you use cmake
